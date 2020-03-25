@@ -1,0 +1,11 @@
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.exe
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.deps.json
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.runtimeconfig.json
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.dll
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\bin\Debug\netcoreapp3.0\ConsoleApp11.pdb
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\obj\Debug\netcoreapp3.0\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\obj\Debug\netcoreapp3.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\obj\Debug\netcoreapp3.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\obj\Debug\netcoreapp3.0\ConsoleApp11.dll
+C:\Users\ellun\source\repos\Cipher of Vigenere\ConsoleApp11\obj\Debug\netcoreapp3.0\ConsoleApp11.pdb
